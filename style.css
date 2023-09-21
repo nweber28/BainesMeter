@@ -6,3 +6,17 @@ thead {
 #meters {
   height: 100vh;
 }
+
+tr {
+  color: black;
+  font-weight: 500;
+}
+
+thead {
+  background-color: #e8d28f;
+}
+
+#bainesTable {
+  /* height: 10%; */
+  overflow-y: scroll;
+}
