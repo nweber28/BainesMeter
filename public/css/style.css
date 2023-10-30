@@ -1,3 +1,7 @@
+body {
+  background-color: #160f29;
+}
+
 thead {
   position: sticky;
   top: 0px;
@@ -8,15 +12,19 @@ thead {
 }
 
 tr {
-  color: black;
+  color: white;
   font-weight: 500;
 }
 
 thead {
-  background-color: #e8d28f;
+  background-color: #246a73;
 }
 
 #bainesTable {
   /* height: 10%; */
   overflow-y: scroll;
+}
+
+tr:nth-child(even) {
+  color: #f3dfc1;
 }
