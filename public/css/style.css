@@ -7,8 +7,17 @@ thead {
   top: 0px;
 }
 
+#title {
+  color: #368f8b;
+}
+
 #meters {
   height: 100vh;
+}
+
+#closePursuit,
+#recentPassers {
+  color: #f3dfc1;
 }
 
 tr {
