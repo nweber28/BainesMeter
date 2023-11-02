@@ -37,3 +37,7 @@ thead {
 tr:nth-child(even) {
   color: #f3dfc1;
 }
+
+#bainesTable tbody tr:hover {
+  border: 5px solid #9b3636;
+}
